@@ -1,0 +1,6 @@
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\2013\thang_dep_trai\Lam_Viec_DEVFAST\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
